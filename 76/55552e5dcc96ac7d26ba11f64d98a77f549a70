@@ -1,0 +1,32 @@
+.github/workflows/test-liqo.yml
+  s_4b6ebbdde3aefa::t_fe72264dc84777 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "7655552e5dcc96ac7d26ba11f64d98a77f549a70",
+  "prompts": {},
+  "sessions": {
+    "s_4b6ebbdde3aefa": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a83c5279ac3a7ef6be846bd",
+        "model": "DeepSeek-V4-Flash-Official"
+      },
+      "human_author": "Longwt123 <1075015495@qq.com>",
+      "custom_attributes": {
+        "dedupe_key": "6a83c5279ac3a7ef6be846bd:6a83c6049ac3a7ef6be84714:afterEdit:ed1124e4",
+        "edit_kind": "file_edit",
+        "session_id": "6a83c5279ac3a7ef6be846bd",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "operation_id": "6a83c6049ac3a7ef6be84714",
+        "tool_use_id": "6a83c6049ac3a7ef6be84714",
+        "client_type": "ide",
+        "source_scene": "agent",
+        "tool_type": "builtin",
+        "external_session_id": "6a83c5279ac3a7ef6be846bd",
+        "runtime_client": "trae-tob-git-ai"
+      }
+    }
+  }
+}
